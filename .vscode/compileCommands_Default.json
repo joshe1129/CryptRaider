@@ -1,0 +1,170 @@
+[
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaider.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaider.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaiderCharacter.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaiderCharacter.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaiderGameMode.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaiderGameMode.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaiderPlayerController.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaiderPlayerController.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaiderProjectile.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\CryptRaiderProjectile.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\Grabber_C.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\Grabber_C.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\Moving_C.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\Moving_C.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\TP_PickUpComponent.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\TP_WeaponComponent.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\Trigger_C.cpp",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\GameDevTv\\CryptRaider\\Source\\CryptRaider\\Trigger_C.h",
+		"arguments": [
+			"D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\GameDevTv\\CryptRaider\\.vscode\\compileCommands_Default\\CryptRaider.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
